@@ -1,5 +1,5 @@
 # Unity VRoid Free Invector 3D Character Controller
-This project is a demonstration on how easy it is to use VRoid model with Invector Character Controller. This project uses Unity version 2021.2.3f1, earlier versions of Unity might not work. Keep in mind that this controller uses the Old Input System. To change it, Go to Edit > Project Settings > Player. In "Configuration", select Active Input Handling and change "Input Manager (Old)" to "Both". If you can't find it, you can search for it with the search box on the project settings window.
+This project is a demonstration on how easy it is to use VRoid model with Invector Character Controller with VRoid Studio model. This project uses Unity version 2021.2.3f1, earlier versions of Unity might not work. Keep in mind that this controller uses the Old Input System. To change it, Go to Edit > Project Settings > Player. In "Configuration", select Active Input Handling and change "Input Manager (Old)" to "Both". If you can't find it, you can search for it with the search box on the project settings window.
 
 Huge credit to these guys who made this possible!
 - UniVRM plugin: https://github.com/vrm-c/UniVRM
