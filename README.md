@@ -6,6 +6,9 @@ Huge credit to these guys who made this possible!
 - Unity Starter Assets - Third Person Character Controller: https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526
 - Invector Third Person Controller Basic Locomotion FREE: https://assetstore.unity.com/packages/tools/game-toolkits/third-person-controller-basic-locomotion-free-82048
 
+<p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Starter_Asset/blob/main/demo.gif" width=100% height=100%></p>
+
 You don't need detailed instructions to use this controller on your VRoid model. But if you want to start fresh, you can just create a basic 3D project from Unity Hub, import the Character Controller Starter Assets and 3rd Person Controller asset from Unity Asset Store, then import UniVRM plugin and your character. If you don't know how to import your VRoid character to Unity, I have a tutorial about it in here: https://www.youtube.com/watch?v=IrIn9wRYqUI
 
 For a short video demonstration, here's my video:
+[![Use These Free Character Controllers for Your Unity Project!)](https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Starter_Asset/blob/main/Video.jpg)](https://youtu.be/XUuuwBTfMAM)
